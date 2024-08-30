@@ -1,0 +1,24 @@
+
+### GitHub Push Instructions
+
+To push these changes to GitHub, follow these steps:
+
+1. Stage all changes:
+
+    ```bash
+    git add .
+    ```
+
+2. Commit the changes with a message:
+
+    ```bash
+    git commit -m "Refactor library to class-based structure and update documentation"
+    ```
+
+3. Push the changes to the remote repository:
+
+    ```bash
+    git push origin main
+    ```
+
+Make sure to replace `"main"` with the correct branch name if your branch is named differently. This will update your GitHub repository with the refactored code and updated documentation.
