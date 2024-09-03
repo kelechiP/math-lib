@@ -94,10 +94,26 @@ Choose an operation:
 
 ## Running Tests
 
-To run the tests for this library, use pytest:
+To run the tests for this library, use `pytest`:
 
 ```bash
 pytest
 ```
 
 This will execute all tests in the tests/ directory to ensure the correctness of the library functions.
+
+## License
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## Contributing
+If you'd like to contribute to the development of this library, please follow these steps:
+
+   1. Fork the repository.
+   2. Create a new branch for your feature or bug fix.
+   3. Make your changes and commit them with clear messages.
+   4. Push your branch and create a pull request
+
+We appreciate any contributions and feedback!
+
+## Contact
+For any questions or feedback, please contact kelechi Uradu.
